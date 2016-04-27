@@ -1,0 +1,1 @@
+{"id":"http:\/\/wso2jsonschema.org","title":"root","$schema":"http:\/\/json-schema.org\/draft-04\/schema#","properties":{"pageToken":{"id":"http:\/\/wso2jsonschema.org\/pageToken","type":"string"},"maxResults":{"id":"http:\/\/wso2jsonschema.org\/maxResults","type":"string"},"tasklist_id":{"id":"http:\/\/wso2jsonschema.org\/tasklist_id","type":"string"}},"type":"object"}
