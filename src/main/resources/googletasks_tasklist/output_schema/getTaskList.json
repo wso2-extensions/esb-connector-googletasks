@@ -1,1 +1,32 @@
-{"id":"http:\/\/wso2jsonschema.org","title":"root","$schema":"http:\/\/json-schema.org\/draft-04\/schema#","properties":{"id":{"id":"http:\/\/wso2jsonschema.org\/id","type":"string"},"title":{"id":"http:\/\/wso2jsonschema.org\/title","type":"string"},"etag":{"id":"http:\/\/wso2jsonschema.org\/etag","type":"string"},"updated":{"id":"http:\/\/wso2jsonschema.org\/updated","type":"string"},"selfLink":{"id":"http:\/\/wso2jsonschema.org\/selfLink","type":"string"},"kind":{"id":"http:\/\/wso2jsonschema.org\/kind","type":"string"}},"type":"object"}
+{
+  "id": "http:\/\/wso2jsonschema.org",
+  "title": "root",
+  "$schema": "http:\/\/json-schema.org\/draft-04\/schema#",
+  "properties": {
+    "id": {
+      "id": "http:\/\/wso2jsonschema.org\/id",
+      "type": "string"
+    },
+    "title": {
+      "id": "http:\/\/wso2jsonschema.org\/title",
+      "type": "string"
+    },
+    "etag": {
+      "id": "http:\/\/wso2jsonschema.org\/etag",
+      "type": "string"
+    },
+    "updated": {
+      "id": "http:\/\/wso2jsonschema.org\/updated",
+      "type": "string"
+    },
+    "selfLink": {
+      "id": "http:\/\/wso2jsonschema.org\/selfLink",
+      "type": "string"
+    },
+    "kind": {
+      "id": "http:\/\/wso2jsonschema.org\/kind",
+      "type": "string"
+    }
+  },
+  "type": "object"
+}

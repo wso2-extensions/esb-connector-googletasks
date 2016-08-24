@@ -1,1 +1,12 @@
-{"id":"http:\/\/wso2jsonschema.org","title":"root","$schema":"http:\/\/json-schema.org\/draft-04\/schema#","properties":{"tasklist_id":{"id":"http:\/\/wso2jsonschema.org\/tasklist_id","type":"string"}},"type":"object"}
+{
+  "id": "http:\/\/wso2jsonschema.org",
+  "title": "root",
+  "$schema": "http:\/\/json-schema.org\/draft-04\/schema#",
+  "properties": {
+    "tasklist_id": {
+      "id": "http:\/\/wso2jsonschema.org\/tasklist_id",
+      "type": "string"
+    }
+  },
+  "type": "object"
+}

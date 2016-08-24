@@ -1,1 +1,48 @@
-{"id":"http:\/\/wso2jsonschema.org","title":"root","$schema":"http:\/\/json-schema.org\/draft-04\/schema#","properties":{"etag":{"id":"http:\/\/wso2jsonschema.org\/etag","type":"string"},"items":{"id":"http:\/\/wso2jsonschema.org\/items","items":[{"id":"http:\/\/wso2jsonschema.org\/items\/0","properties":{"id":{"id":"http:\/\/wso2jsonschema.org\/items\/0\/id","type":"string"},"title":{"id":"http:\/\/wso2jsonschema.org\/items\/0\/title","type":"string"},"updated":{"id":"http:\/\/wso2jsonschema.org\/items\/0\/updated","type":"string"},"selfLink":{"id":"http:\/\/wso2jsonschema.org\/items\/0\/selfLink","type":"string"},"kind":{"id":"http:\/\/wso2jsonschema.org\/items\/0\/kind","type":"string"}},"type":"object"}],"type":"array"},"kind":{"id":"http:\/\/wso2jsonschema.org\/kind","type":"string"}},"type":"object"}
+{
+  "id": "http:\/\/wso2jsonschema.org",
+  "title": "root",
+  "$schema": "http:\/\/json-schema.org\/draft-04\/schema#",
+  "properties": {
+    "etag": {
+      "id": "http:\/\/wso2jsonschema.org\/etag",
+      "type": "string"
+    },
+    "items": {
+      "id": "http:\/\/wso2jsonschema.org\/items",
+      "items": [
+        {
+          "id": "http:\/\/wso2jsonschema.org\/items\/0",
+          "properties": {
+            "id": {
+              "id": "http:\/\/wso2jsonschema.org\/items\/0\/id",
+              "type": "string"
+            },
+            "title": {
+              "id": "http:\/\/wso2jsonschema.org\/items\/0\/title",
+              "type": "string"
+            },
+            "updated": {
+              "id": "http:\/\/wso2jsonschema.org\/items\/0\/updated",
+              "type": "string"
+            },
+            "selfLink": {
+              "id": "http:\/\/wso2jsonschema.org\/items\/0\/selfLink",
+              "type": "string"
+            },
+            "kind": {
+              "id": "http:\/\/wso2jsonschema.org\/items\/0\/kind",
+              "type": "string"
+            }
+          },
+          "type": "object"
+        }
+      ],
+      "type": "array"
+    },
+    "kind": {
+      "id": "http:\/\/wso2jsonschema.org\/kind",
+      "type": "string"
+    }
+  },
+  "type": "object"
+}
