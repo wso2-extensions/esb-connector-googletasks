@@ -43,7 +43,7 @@ public class GoogletasksConnectorIntegrationTest extends ESBIntegrationTest {
     private MediationLibraryAdminServiceStub adminServiceStub = null;
     private ProxyServiceAdminClient proxyAdmin;
     private String repoLocation = null;
-    private String googletasksConnectorFileName = CONNECTOR_NAME + "-connector-1.0.2-SNAPSHOT.zip";
+    private String googletasksConnectorFileName = CONNECTOR_NAME + "-connector-1.0.2.zip";
     private Properties googletasksConnectorProperties = null;
     private String pathToProxiesDirectory = null;
     private String pathToRequestsDirectory = null;

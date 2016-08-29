@@ -23,4 +23,7 @@
         <dependency component="googletasks_tasklist"/>
         <description>WSO2 ESB connector for Google Tasks API</description>
     </component>
+    <authenticationInfo>
+        https://docs.wso2.com/display/ESBCONNECTORS/Google+Tasks+Connector#GoogleTasksConnector-ConnectingtoGoogleTasks
+    </authenticationInfo>
 </connector>
