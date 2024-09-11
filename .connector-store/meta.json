@@ -4,7 +4,7 @@
     "category": "Productivity Tools",
     "documentationUrl": "https://docs.wso2.com/display/CONNECTORS/Google+Tasks+Connector",
     "description": "The Google Tasks connector allows you to connect to google tasks and manage your tasks and task lists. The connector uses the Google Tasks API version 1 to connect to google tasks and perform operations like insert, delete, update tasks and task lists.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
